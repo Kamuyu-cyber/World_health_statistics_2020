@@ -23,4 +23,4 @@ This repository contains a visual summary of the **World Health Statistics 2020*
 To explore the visual summaries and data visualizations:  
 1. Clone this repository to your local machine using:  
    ```bash  
-   git clone https://github.com/yourusername/world-health-statistics-2020.git
+   git clone https://github.com/Kamuyu-cyber/world-health-statistics-2020.git
